@@ -2,7 +2,7 @@
 
 # Digital Acquisition Professional Program Case Study Challenge 
 
-**Navigating Stakeholder and Decision-making Challenges** 
+**Navigating Stakeholder and Decision-Making Challenges** 
 
 I. Overview</br>
 II. The Exercise</br>
